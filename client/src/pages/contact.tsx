@@ -78,7 +78,7 @@ export default function Contact() {
                   </div>
                   <div>
                     <h3 className="font-medium text-gray-900">Contact Person</h3>
-                    <p className="text-gray-600">Mr. Amrit Pal</p>
+                    <p className="text-gray-600">Mr. Arshveer Singh</p>
                   </div>
                 </div>
 
@@ -113,6 +113,11 @@ export default function Contact() {
                     <a href="tel:+919896032299" className="text-primary hover:text-primary/80">
                       +91-9896032299
                     </a>
+</hr>
+                     <a href="tel:+918295032299" className="text-primary hover:text-primary/80">
+                      +91-8295032299
+                    </a>
+                    
                   </div>
                 </div>
 
